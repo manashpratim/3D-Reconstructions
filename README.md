@@ -20,4 +20,6 @@
 
 •	Beat the state of the art Monodepthv2 self-supervised model (baseline model) in all 7-performance metrics. 
 
+• ResDepth is inspired from https://github.com/ialhashim/DenseDepth and https://github.com/nianticlabs/monodepth2.
+
 **Note: This project is part of my Homeworks. Current CMU students please refrain from going through the codes.**
