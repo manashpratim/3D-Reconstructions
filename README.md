@@ -1,8 +1,8 @@
 # 3D-Reconstructions
 3D Reconstruction using Triangulation, Photometric Stereo and Deep Learning
-# Description
+## Description
 
-## 3D Reconstruction using Triangulation
+### 3D Reconstruction using Triangulation
 •	Implemented the 8-point algorithm to estimate the fundamental matrix from corresponding points in two images.
 
 •	With the fundamental matrix and calibrated intrinsics, computed the essential matrix and used this to compute a 3D metric reconstruction from 2D correspondences using triangulation.
@@ -16,7 +16,7 @@
 <img align="left" width="400" height="500" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/q1.PNG">
 <img align="rights" width="400" height="500" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/q3.png">
 
-## 3D Reconstruction using Photometric Stereo
+### 3D Reconstruction using Photometric Stereo
 
 •	Determined the shape of a person’s face using both calibrated and uncalibrated photometric vision (assuming Lambertian object and Orthographic Camera).
 
@@ -27,7 +27,7 @@
 **Uncalibrated Photometric Vision**
 ![Uncalibrated Photometric Vision](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm2.png)
 
-## 3D Reconstruction using Deep Learning (ResDepth)
+### 3D Reconstruction using Deep Learning (ResDepth)
 
 •	Proposed a novel deep learning architecture (ResDepth) consisting of an encoder-decoder self-supervised network, to compute disparity of images and videos.
 
@@ -41,7 +41,7 @@
 
 • This is a group project. Here I have listed my contributions only.
 
-### ResDepth Architecture
+#### ResDepth Architecture
 
 ![ResDepth Architecture](https://github.com/manashpratim/3D-Reconstructions/blob/master/architecture.PNG)
 
