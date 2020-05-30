@@ -45,11 +45,13 @@
 ![ResDepth Architecture](https://github.com/manashpratim/3D-Reconstructions/blob/master/architecture.PNG)
 
 <img align="left" width="400" height="300" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/encoder.PNG">
+
 <img align="right" width="400" height="300" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/decoder.PNG">
 
-
 **Disparity Maps**
+<p align="center">
+  <img width="460" height="500" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/pics.PNG">
+</p>
 
-![Disparity Maps](https://github.com/manashpratim/3D-Reconstructions/blob/master/pics.PNG)
 
 **Note: This project is part of my Homeworks. Current CMU students please refrain from going through the codes.**
