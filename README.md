@@ -24,12 +24,12 @@
 
 **Calibrated Photometric Vision**
 ![Calibrated Photometric Vision](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm.png)
-**UnCalibrated Photometric Vision**
-![UnCalibrated Photometric Vision](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm2.png)
+**Uncalibrated Photometric Vision**
+![Uncalibrated Photometric Vision](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm2.png)
 
 ## 3D Reconstruction using Deep Learning (ResDepth)
 
-•	Proposed a deep learning architecture (ResDepth), an encoder-decoder self-supervised network, to compute disparity of images and videos.
+•	Proposed a novel deep learning architecture (ResDepth) consisting of an encoder-decoder self-supervised network, to compute disparity of images and videos.
 
 • Trained the network using the stereo pairs from the KITTI dataset. Computed loss using a combination of L1 and SSIM loss.
 
@@ -37,7 +37,7 @@
 
 • ResDepth is inspired from DenseDepth (https://github.com/ialhashim/DenseDepth) and MonoDepthV2 (https://github.com/nianticlabs/monodepth2).
 
-• Detailed report of the project is in ResDepthReport.pdf, code is in ResDepth_Manash.ipynb and a video of the results of the model is in project video.mp4.
+• Detailed report of the project is in ResDepthReport.pdf, code is in ResDepth_Manash.ipynb and a video of the results of the model is available at https://github.com/manashpratim/3D-Reconstructions/blob/master/project%20video.mp4.
 
 • This is a group project. Here I have listed my contributions only.
 
