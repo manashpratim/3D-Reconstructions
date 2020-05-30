@@ -39,6 +39,8 @@
 
 • Detailed report of the project is in ResDepthReport.pdf, code is in ResDepth_Manash.ipynb and a video of the results of the model is in project video.mp4.
 
+• This is a group project. Here I have listed my contributions only.
+
 **ResDepth Architecture**
 ![ResDepth Architecture](https://github.com/manashpratim/3D-Reconstructions/blob/master/architecture.PNG)
 
