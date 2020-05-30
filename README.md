@@ -41,7 +41,7 @@
 
 • This is a group project. Here I have listed my contributions only.
 
-**ResDepth Architecture**
+### ResDepth Architecture
 
 ![ResDepth Architecture](https://github.com/manashpratim/3D-Reconstructions/blob/master/architecture.PNG)
 
@@ -52,7 +52,7 @@
 </p>
 
 
-**Disparity Maps**
+### Disparity Maps
 <p align="center">
   <img width="460" height="500" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/pics.PNG">
 </p>
