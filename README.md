@@ -12,6 +12,7 @@
 ## HW6
 
 •	Determined the shape of a person’s face using both calibrated and uncalibrated photometric vision (assuming Lambertian object and Orthographic Camera).
+![Image of Yaktocat](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm.png)
 
 ## ResDepth
 •	Proposed a deep learning architecture (ResDepth), an encoder-decoder self-supervised network, to compute disparity of images and videos.
