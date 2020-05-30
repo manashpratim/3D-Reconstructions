@@ -42,11 +42,16 @@
 • This is a group project. Here I have listed my contributions only.
 
 **ResDepth Architecture**
+
 ![ResDepth Architecture](https://github.com/manashpratim/3D-Reconstructions/blob/master/architecture.PNG)
 
-<img align="left" width="400" height="300" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/encoder.PNG">
+ <p align="left"> 
+ <img width="400" height="300" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/encoder.PNG">
+</p>
 
-<img align="right" width="400" height="300" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/decoder.PNG">
+<p align="right" 
+<img width="400" height="300" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/decoder.PNG"> 
+</p>
 
 **Disparity Maps**
 <p align="center">
