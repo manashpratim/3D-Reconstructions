@@ -8,6 +8,11 @@
 •	With the fundamental matrix and calibrated intrinsics, computed the essential matrix and used this to compute a 3D metric reconstruction from 2D correspondences using triangulation.
 
 •	Implemented a method to automatically match points, taking advantage of epipolar constraints and made a 3D visualization of the results. Finally, implemented RANSAC and bundle adjustment to further improve the algorithm.
+![Image 1](https://github.com/manashpratim/3D-Reconstructions/blob/master/fig2.png)
+**3D Point Clouds**
+
+<img align="left" width="400" height="500" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/q1.PNG">
+<img align="rights" width="400" height="500" src="https://github.com/manashpratim/3D-Reconstructions/blob/master/q3.png">
 
 ## HW6
 
