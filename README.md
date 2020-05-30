@@ -12,7 +12,9 @@
 ## HW6
 
 •	Determined the shape of a person’s face using both calibrated and uncalibrated photometric vision (assuming Lambertian object and Orthographic Camera).
+**Calibrated Photometric Vision**
 ![Calibrated Photometric Vision](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm.png)
+**UnCalibrated Photometric Vision**
 ![UnCalibrated Photometric Vision](https://github.com/manashpratim/3D-Reconstructions/blob/master/albnorm2.png)
 
 ## ResDepth
